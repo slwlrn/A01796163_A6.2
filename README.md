@@ -1,6 +1,4 @@
-Aquí tienes la documentación del proyecto en español siguiendo la estructura que mencionaste:
 
----
 
 # 📌 Sistema de Reservaciones con Trazabilidad
 
